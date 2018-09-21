@@ -4,7 +4,9 @@ Matching games are games that require players to match similar elements. As the 
 
 The game randomly shuffles the cards. A user wins once all cards have successfully been matched.
 
-To get started, navigate to project location. Open index.html file with your browser  
+To get started, navigate to project location. Open index.html file with your browser 
+
+Or try it out online: https://suranchiyev.github.io/memory-game/
 
 ### Memory Game Logic
 The game randomly shuffles the cards:
